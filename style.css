@@ -11,7 +11,7 @@
     width: 100%;
     /* border: 2px solid green; */
     margin-bottom: 5px;
-    background-image: url(/img-src/Header\ Background\ Img.png);
+    background-image: url(img-src/Header\ Background\ Img.png);
     background-position: center;
     background-size: cover;
     display: flex;
